@@ -60,6 +60,6 @@
 ## 6. 증빙 자료
 
 - 코드
-https://drive.google.com/drive/folders/1-fjmX1WPDxrw41kUhtmPvmSMG3ELSxIe?usp=drive_link
+: 깃허브 파일 확인
 - 데이터
-본 보고서는 한국소비자원 ‘20년 ~ ‘23년 소비자위해감시시스템(CISS)의 위해정보 데이터를 활용하였음
+: 본 보고서는 한국소비자원 ‘20년 ~ ‘23년 소비자위해감시시스템(CISS)의 위해정보 데이터를 활용하였음
